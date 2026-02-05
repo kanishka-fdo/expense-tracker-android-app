@@ -9,7 +9,7 @@ An Android mobile application designed to help users track daily income and expe
 - Offline data storage using local database
 - Simple and intuitive user interface
 
-## 🛠 Tech Stack
+## 🛠 Tech StacK
 - Android
 - Java
 - XML
